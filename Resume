@@ -35,10 +35,10 @@
 <body>
     <div class="pdf-container">
         <div class="pdf-page">
-            <iframe src="path/to/your/pdf#page=1"></iframe>
+            <iframe src="MinThwayKhine-CV-V4.pdf"></iframe>
         </div>
         <div class="pdf-page">
-            <iframe src="path/to/your/pdf#page=2"></iframe>
+            <iframe src="MinThwayKhine-CV-V4.pdf#page=2"></iframe>
         </div>
     </div>
 </body>
